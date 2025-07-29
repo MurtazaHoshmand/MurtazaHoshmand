@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Murtaza Hoshmand
 
-### 💻 Full-Stack Developer | PHP & JS Specialist
+💻 Full-Stack Developer | PHP & JS Specialist
 
-🔭 *Currently Building:* [Omary Power] (Vue.js + Laravel)  
-🌱 *Deep Diving Into:* AI, Data Mining, and Distributed Systems  
-💡 *Core Expertise:* Laravel and JS Ecosystems, Vue 3, React, API Architecture  
-🛠 *Tech Stack:* Laravel, Vue 3, React, JavaScript, Tailwind CSS, MySQL, Node.js, Express.js
+🔭 Currently Building: Omary Power (Vue.js + Laravel)  
+🌱 Deep Diving Into: AI, Data Mining, and Distributed Systems  
+💡 Core Expertise: Laravel and JS Ecosystems, Vue 3, React, API Architecture  
+🛠 Tech Stack: Laravel, Vue 3, React, JavaScript, Tailwind CSS, MySQL, Node.js, Express.js
 
----
 
-## 🚀 My Development Journey
+
+ 🚀 My Development Journey
 
 <div align="center">
 
@@ -62,7 +62,7 @@ While some of my work is private, here are a few key projects:
 ## 📫 Let's Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/murtaza-hoshmand">
+  <a href="https://www.linkedin.com/in/murtaza-hoshmand-33a561292)">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:murtazahoshmand2022@gmail.com">
