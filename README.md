@@ -62,7 +62,7 @@ While some of my work is private, here are a few key projects:
 ## 📫 Let's Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/murtaza-hoshmand-33a561292)">
+  <a href="https://www.linkedin.com/in/murtaza-hoshmand-33a561292">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:murtazahoshmand2022@gmail.com">
